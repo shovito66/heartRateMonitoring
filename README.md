@@ -1,10 +1,8 @@
-# heartRateMonitoring
 <h1>ALGORITHM SIMULATOR</h1> <br>
-<b>Academic Term Project: (Undergrad, Level-1 Term-2)</b><br>
-[YouTube]https:https://youtu.be/GcZv4N4CA9U
+<b>Academic Term Project: (Undergrad, Level-3 Term-1)</b><br>
+[YouTube]https://youtu.be/GcZv4N4CA9U
 <p> 
- <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/sensing.jpg" width="600" title="Reflection of IR LED light from the blood vessels 
-"> <br> 
+ <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/sensing.jpg" width="600" title="Reflection of IR LED light from the blood vessels "> <br> 
   <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/block_summary.png" width="480" title="Proposed Solution">
   <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/circuit.jpg" width="480" title="Implementation of overall system">
   
