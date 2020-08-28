@@ -1,4 +1,4 @@
-<h1>ALGORITHM SIMULATOR</h1> <br>
+<h1>Portable Heart Rate Monitoring System</h1> <br>
 <b>Academic Term Project: (Undergrad, Level-3 Term-1)</b><br>
 [YouTube]https://youtu.be/GcZv4N4CA9U <br>
 <b>Project Report:</b>https://github.com/shovito66/heartRateMonitoring/blob/master/1605065_1605066_1605088.pdf
