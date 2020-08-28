@@ -16,8 +16,7 @@ Portable heart rate monitor is a personal monitoring device that measures the he
 Lecturer, <br>
 Department of Computer Science And Engineering,<br>
 Bangladesh University of Engineering & Technology (BUET), Dhaka-1000.<br>
-
-<br><br>
+<br>
 <b>Md. Masum Mushfiq,</b><br>
 Lecturer, <br>
 Department of Computer Science And Engineering,<br>
@@ -27,6 +26,3 @@ Bangladesh University of Engineering & Technology (BUET), Dhaka-1000.<br>
 <b>Team Member:</b><br>
 Shovito Barua Soumma<br>
 Fahim Shahriar Anik<br>
-
-![alt text](https://github.com/shovito66/Algorithm-Simulator/blob/master/Screen%20Shot/SS%200.PNG)
-
