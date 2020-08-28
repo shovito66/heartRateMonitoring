@@ -4,9 +4,9 @@
 <b>Project Report:</b>https://github.com/shovito66/heartRateMonitoring/blob/master/1605065_1605066_1605088.pdf
 <p> 
  <center>
- <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/sensing.jpg" width="600" title="Reflection of IR LED light from the blood vessels "> <br> 
+ <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/sensing.jpg" width="500" title="Reflection of IR LED light from the blood vessels "> <br> 
   <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/block_summary.png" width="480" title="Proposed Solution">
-  <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/circuit.jpg" width="480" title="Implementation of overall system">
+  <img src="https://github.com/shovito66/heartRateMonitoring/blob/master/circuit.jpg" width="600" title="Implementation of overall system">
   </center>
 Portable heart rate monitor is a personal monitoring device that measures the heart rate using optical sensors in real time and send the measured the data to directly to an android device. We are developing prototype of this application using the continuous monitoring of parameters to detect and predict the heart attack and generate an alarm.
 
